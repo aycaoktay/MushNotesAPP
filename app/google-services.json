@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "509441635931",
+    "project_id": "mushnotes-6dcd5",
+    "storage_bucket": "mushnotes-6dcd5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:509441635931:android:7d1a82da4e3416dfeb317e",
+        "android_client_info": {
+          "package_name": "com.sao.mushnotes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "509441635931-gtk1gpprogg10ht0n4rt96072tgne2kn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6pQCJCkjdVvJIUmcpgmx86yU1kBnkCgM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "509441635931-gtk1gpprogg10ht0n4rt96072tgne2kn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
